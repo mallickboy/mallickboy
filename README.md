@@ -1,5 +1,3 @@
-# <b>Hey There, Code Enthusiasts</b>
-
 # Hey, I'm Tamal Mallick 👋
 
 
