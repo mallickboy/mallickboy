@@ -1,59 +1,26 @@
 # Hey, I'm Tamal Mallick 👋
 
+Machine Learning Engineer with experience building production AI, backend, and computer vision systems. My interests lie at the intersection of AI, Backend Engineering, MLOps, and Infrastructure.
 
-
-Machine Learning Engineer with experience building production AI backend and computer vision systems. My interests lie at the intersection of AI, Backend Engineering, MLOps, and Infrastructure.
-
-
-
-I enjoy building reliable systems — from training and deploying machine learning models to designing backend services, automation pipelines, and scalable developer tools.
-
-
+I enjoy building reliable systems, from training and deploying machine learning models to designing backend services, automation pipelines, and scalable developer tools.
 
 ### Areas of Interest
-
-
-
 * Machine Learning & Computer Vision
-
-* Backend Engineering
-
+* Backend Engineering & Distributed Systems
 * MLOps & AI Infrastructure
-
-* Distributed Systems
-
-* Linux & Self-Hosted Infrastructure
-
-* Cloud & Automation
-
-
+* Linux, Cloud & Self-Hosted Systems
 
 ### Currently Exploring
-
-
-
-* MLOps and model serving
-
-* AI agents and LLM systems
-
-* System design and distributed architectures
-
-* Homelab projects with Proxmox, Docker, and self-hosted services
-
-
+* AI Agents & Workflow Automation
+* Kubernetes, MLOps & Model Serving
+* System Design & Homelab Infrastructure with Proxmox, Docker, and Self-Hosted Services
 
 ### Open Source
 
+* **mallickboy**: Lightweight Python utility for monitoring CPU and memory usage during development and testing.
+* **snapkit** *(WIP)*: CLI and Python toolkit for automating day-to-day AI and computer vision workflows.
 
-
-* **mallickboy** — Lightweight Python utility for monitoring CPU and memory usage during development and testing.
-
-* **snapkit** *(WIP)* — CLI and Python toolkit for automating day-to-day AI and computer vision workflows.
-
-
-
-I enjoy hands-on experiments, collaborating on impactful projects, sharing knowledge, and building tools that solve real-world problems.
-
+I enjoy hands-on experimentation, collaborating on impactful projects, sharing knowledge, and building tools that solve real-world problems.
 
 Feel free to explore my repositories or connect if you'd like to discuss AI, backend systems, infrastructure, or open-source projects.
 
